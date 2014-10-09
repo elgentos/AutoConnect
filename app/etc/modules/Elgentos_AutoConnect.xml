@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Elgentos_AutoConnect>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Elgentos_AutoConnect>
+    </modules>
+</config>
